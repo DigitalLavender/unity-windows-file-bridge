@@ -1,0 +1,3 @@
+[submodule "NativePluginBuilder"]
+	path = NativePluginBuilder
+	url = https://github.com/DigitalLavender/WindowsUnityFileBridgeNativePlugin
